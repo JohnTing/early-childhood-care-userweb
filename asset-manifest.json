@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.7011ca87.css",
-    "main.js": "/static/js/main.98123124.js",
-    "index.html": "/index.html",
-    "main.7011ca87.css.map": "/static/css/main.7011ca87.css.map",
-    "main.98123124.js.map": "/static/js/main.98123124.js.map"
+    "main.css": "/early-childhood-care-userweb/static/css/main.7011ca87.css",
+    "main.js": "/early-childhood-care-userweb/static/js/main.98123124.js",
+    "index.html": "/early-childhood-care-userweb/index.html",
+    "main.7011ca87.css.map": "/early-childhood-care-userweb/static/css/main.7011ca87.css.map",
+    "main.98123124.js.map": "/early-childhood-care-userweb/static/js/main.98123124.js.map"
   },
   "entrypoints": [
     "static/css/main.7011ca87.css",
